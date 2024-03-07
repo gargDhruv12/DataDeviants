@@ -266,7 +266,19 @@
       background-color: white;
       transform: translateX(-20px);
   }
-  
+
+.footer {
+    background-color: #151515;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.copyright {
+    color: #fff;
+    text-align: center;
+    font-size: 0.8rem;
+}
   @media only screen and (max-width: 940px){
       .menu-container{
           display: none;
